@@ -4,8 +4,8 @@ Además deben anexar un archivo README indicando:
 (1) cómo compilar y ejecutar la tarea; 
 Para compilar y ejecutar la tarea en replit se debe hacer con lo siguiente: 
 Para configurar 
-- Compile Command: make -s
-- Run Command y ejecutar: ./main
+- Run Command y ejecutar:
+- ./tarea3
 
 (2) las opciones que funcionan correctamente y las que no lo hacen indicando posibles causas;
 Funciones 1*, 2, 4, 6, 7 y 8* no presentan ningún error.
